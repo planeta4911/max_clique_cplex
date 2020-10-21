@@ -148,7 +148,7 @@ Indexes of nodes for best solution:
 
 ===============================
 
-gen200_p0.9_44
+gen200_p0.9_55
 
 Time elapsed: 3600.007
 
