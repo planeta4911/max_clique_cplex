@@ -97,3 +97,15 @@ Result is 4
 Indexes of nodes for best solution:
 
 1 16 52 61
+
+===============================
+
+MANN_a9
+
+Time elapsed: 1.317
+
+Result is 16
+
+Indexes of nodes for best solution:
+
+1 2 4 5 6 12 16 21 24 27 30 33 36 37 42 45
