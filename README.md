@@ -121,3 +121,15 @@ Result is 8
 Indexes of nodes for best solution:
 
 19 48 63 104 149 239 251 256
+
+===============================
+
+p_hat300-2
+
+Time elapsed: 3600.051
+
+Result is 22
+
+Indexes of nodes for best solution:
+
+3 4 21 44 48 49 76 104 149 159 174 179 190 209 237 250 251 252 255 259 280 296
