@@ -73,3 +73,27 @@ Result is 15
 Indexes of nodes for best solution:
 
 1 3 6 22 23 31 33 40 53 72 85 90 95 98 124 
+
+===============================
+
+hamming6-2
+
+Time elapsed: 0.019
+
+Result is 32
+
+Indexes of nodes for best solution:
+
+1 4 6 7 10 11 13 16 18 19 21 24 25 28 30 31 34 35 37 40 41 44 46 47 49 52 54 55 58 59 61 64
+
+===============================
+
+hamming6-4
+
+Time elapsed: 6.522
+
+Result is 4
+
+Indexes of nodes for best solution:
+
+1 16 52 61
