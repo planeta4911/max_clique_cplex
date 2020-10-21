@@ -109,3 +109,15 @@ Result is 16
 Indexes of nodes for best solution:
 
 1 2 4 5 6 12 16 21 24 27 30 33 36 37 42 45
+
+===============================
+
+p_hat300-1
+
+Time elapsed: 3600.248
+
+Result is 8
+
+Indexes of nodes for best solution:
+
+19 48 63 104 149 239 251 256
