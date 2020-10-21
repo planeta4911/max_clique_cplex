@@ -16,8 +16,13 @@ Indexes of nodes for best solution:
 
 
 keller4
+
 ===============================
+
 Time elapsed: 3600.011
+
 Result is 11
+
 Indexes of nodes for best solution:
+
 1 8 13 22 41 52 78 83 92 114 116
