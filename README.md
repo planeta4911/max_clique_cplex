@@ -2,6 +2,8 @@
 Timeout: 3600 sec
 Intel(R) Core(TM) i5-4210M CPU @ 2.60 GHz 2.59 GHz 4 GB RAM
 
+
+
 C125.9
 
 ===============================
@@ -13,6 +15,7 @@ Result is 34
 Indexes of nodes for best solution:
 
 1 2 5 7 9 11 17 18 19 25 29 31 34 40 44 47 48 49 54 70 71 77 79 80 93 101 110 114 115 117 121 122 123 125
+
 
 
 keller4
