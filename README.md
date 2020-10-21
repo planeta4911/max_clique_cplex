@@ -49,3 +49,16 @@ Result is 12
 Indexes of nodes for best solution:
 
 27 48 55 70 105 120 121 135 145 149 158 183
+
+===============================
+
+brock200_3
+
+Time elapsed: 3600.089
+
+Result is 13
+
+Indexes of nodes for best solution:
+
+1 5 9 17 55 57 59 62 63 88 115 125 189 
+
