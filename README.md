@@ -37,3 +37,15 @@ Result is 20
 Indexes of nodes for best solution:
 
 1 8 13 15 16 27 36 56 69 79 81 103 114 116 139 155 159 164 175 190
+
+===============================
+
+brock200_2
+
+Time elapsed: 3600.032
+
+Result is 12
+
+Indexes of nodes for best solution:
+
+27 48 55 70 105 120 121 135 145 149 158 183
