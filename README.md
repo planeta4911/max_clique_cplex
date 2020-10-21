@@ -1,9 +1,13 @@
-# max_clique_cplex
+# max_clique_cplex_BnB
 
-Result of keller4 is 11
+C125.9
 
-Result of brock200_2 is 12
+===============================
 
-Result of C125.9 is 34
+Time elapsed: 1985.008
 
-Result of C250 is 44 (считался почти 40 минут, решил стопануть все-таки, целевая к этому моменту уже совпала с наилучшим известным значением)
+Result is 34
+
+Indexes of nodes for best solution:
+
+1 2 5 7 9 11 17 18 19 25 29 31 34 40 44 47 48 49 54 70 71 77 79 80 93 101 110 114 115 117 121 122 123 125
