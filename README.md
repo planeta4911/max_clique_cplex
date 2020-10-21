@@ -28,8 +28,6 @@ Indexes of nodes for best solution:
 
 ===============================
 
-===============================
-
 brock200_1
 
 Time elapsed: 3600.029
