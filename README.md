@@ -27,3 +27,15 @@ Indexes of nodes for best solution:
 1 8 13 22 41 52 78 83 92 114 116
 
 ===============================
+
+===============================
+
+brock200_1
+
+Time elapsed: 3600.029
+
+Result is 20
+
+Indexes of nodes for best solution:
+
+1 8 13 15 16 27 36 56 69 79 81 103 114 116 139 155 159 164 175 190
