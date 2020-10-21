@@ -62,3 +62,14 @@ Indexes of nodes for best solution:
 
 1 5 9 17 55 57 59 62 63 88 115 125 189 
 
+===============================
+
+brock200_4
+
+Time elapsed: 3600.033
+
+Result is 15
+
+Indexes of nodes for best solution:
+
+1 3 6 22 23 31 33 40 53 72 85 90 95 98 124 
