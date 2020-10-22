@@ -253,3 +253,15 @@ Result is 15
 Indexes of nodes for best solution:
 
 1 3 4 5 7 8 17 18 22 26 27 38 42 45 84
+
+===============================
+
+san200_0.7_2
+
+Time elapsed: 3600.024
+
+Result is 12
+
+Indexes of nodes for best solution:
+
+1 2 3 4 6 8 13 18 20 40 46 47
