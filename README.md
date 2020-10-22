@@ -301,3 +301,15 @@ Result is 29
 Indexes of nodes for best solution:
 
 1 2 3 4 6 8 9 12 17 27 35 47 67 68 83 84 86 91 96 109 118 124 141 150 160 164 166 168 194
+
+===============================
+
+sanr200_0.7
+
+Time elapsed: 3600.007
+
+Result is 17
+
+Indexes of nodes for best solution:
+
+1 2 11 45 60 64 94 96 102 110 127 131 151 161 176 182 188
